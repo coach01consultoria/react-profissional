@@ -30,7 +30,6 @@ export default class Pacientes extends React.Component {
             <div className="card">
               <div className="card-body">
                 <h5 className="card-title">Pacientes</h5>
-                {this.state.paciente.nome}
                 <form>
                   <div className="form-row">
                     <div className="col-md-4">
